@@ -1,8 +1,3 @@
-/*	Alen Frey	
-/	Bauernmultiplikation
-/	ITB1_3
-/	UE05 Aufgabe 1/5
-*/
 
 #include <stdio.h>
 
