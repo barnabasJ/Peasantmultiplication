@@ -2,20 +2,11 @@
 
 #This is my C code for a Computer Science assignment in School.
 
-/*	Alen Frey	
-/	Bauernmultiplikation
-/	ITB1_3
-/	UE05 Aufgabe 1/5
-*/
-
 #include <stdio.h>
 
 
-
-int main()
-{
+int main(){
 	
-
 	int num1=19;
 	int num2=33;
 	int result=0;
