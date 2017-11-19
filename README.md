@@ -1,3 +1,3 @@
 # Peasantmultiplication
 
-This rep contains my C code for a Computer Science assignment in School.
+This rep contains a C code which multiplies two Integer numbers by a method called "Peasant multiplication".
