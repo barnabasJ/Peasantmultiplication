@@ -53,4 +53,4 @@ int main()
 }			
 	printf("Das Ergebnis ist %d",result);
 
-
+}
